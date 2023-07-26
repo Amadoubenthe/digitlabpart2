@@ -1,0 +1,11 @@
+img {
+	width: 35%;
+}
+
+.border {
+	border: solid 1px black;
+}
+
+.blackWhite {
+	filter: grayscale(100%);
+}
